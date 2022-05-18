@@ -1,4 +1,4 @@
-# UCR Honors CapStone Project: Food Index Score
+# UCR Honors Capstone Project: Food Index Score
 
 # Project Information
 * Completed Spring 2022
@@ -38,4 +38,5 @@ food-related diseases such as diabetes. </dd>
 * Clone and run python3 MapMain.py
 
   * Will require individual Google Places API key
+  * Create MySQL Databse and load the included text files
 </d2>
