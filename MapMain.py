@@ -1,4 +1,5 @@
-# Authors: Mayur Ryali and Tyler Pastor
+# Author: Mayur Ryali
+# Collaborator: Tyler Pastor
 # Date: 5/09/22
 
 from googleplaces import GooglePlaces, types, lang
@@ -175,7 +176,7 @@ except Error as e:
 # file.close()
 
 # cursor.close()
-API_KEY = "AIzaSyDbYCT-HEriitGRU9Jg_eT65DNoQ-VRc4w"
+API_KEY = ""
 
 def TextSearch(address):
     newAddress = ""
